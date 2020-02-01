@@ -7,10 +7,14 @@ Recurrent nightmares is a common symptom across mental illnesses, especially pos
 ## What it does
 Sweet Dreams has three main functions:
 
-Nightmare Recovery: Sweet Dreams uses an accelerometer and a moisture sensor to monitor the quality of your sleep, called the Sleep Quality Index. When your Sleep Quality Index falls below a certain threshold, the system assumes you are having a nightmare or are otherwise panicked, and calms you down with a traditional 4-7-8 yoga breathing method.
-Data Analytics: Sensors monitor the room's temperature, humidity, and lighting, then easily displays them along your Sleep Quality Index for the night so you can see what conditions are best for you for sleeping.
-Light Therapy: Many PTSD suffers also suffer from insomnia. When you wake up, simply press the button on Sweet Dreams to start your light therapy.
-Sleep History: Users and doctors can view sleep history and see which therapies improved the user's sleep the most.
+### Nightmare Recovery
+Sweet Dreams uses an accelerometer and a moisture sensor to monitor the quality of your sleep, called the Sleep Quality Index. When your Sleep Quality Index falls below a certain threshold, the system assumes you are having a nightmare or are otherwise panicked, and calms you down with a traditional 4-7-8 yoga breathing method.
+### Data Analytics
+Sensors monitor the room's temperature, humidity, and lighting, then easily displays them along your Sleep Quality Index for the night so you can see what conditions are best for you for sleeping.
+### Light Therapy
+Many PTSD suffers also suffer from insomnia. When you wake up, simply press the button on Sweet Dreams to start your light therapy.
+### Sleep History
+Users and doctors can view sleep history and see which therapies improved the user's sleep the most.
 How we built it
 We used Arduino to control the sensors:
 
