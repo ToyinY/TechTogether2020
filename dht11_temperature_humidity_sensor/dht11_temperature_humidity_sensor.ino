@@ -17,10 +17,12 @@ void loop()
 {
 float temp, hum;
 temp=dht.readTemperature();
+temp = temp * (9/5) + 32; 
 hum=dht.readHumidity();
 
 Serial.print("Temp : ");
 Serial.println(temp);
 Serial.print("Humi : ");
 Serial.println(hum);
+delay(1000); 
 }
