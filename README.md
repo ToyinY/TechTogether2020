@@ -33,9 +33,8 @@ We're proud that we were able to display readable information to the user. This 
 ## What we learned
 Research in more depth the requirements for hardware before we start the project.
 
-What's next for Sweet Dreams
+## What's next for Sweet Dreams
 Reminders:
-
 Notifies users when to sleep
 Daily check-ins on user’s mood and tiredness throughout the day
 Advice on sleep hygiene
